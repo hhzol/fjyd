@@ -13,6 +13,8 @@ FROM scratch
 COPY --from=builder /app/main /
 COPY interface.txt /
 
+ENV TZ=Asia/Shanghai
+
 EXPOSE 6688
 
 ENTRYPOINT ["/main"]
