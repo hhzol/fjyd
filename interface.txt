@@ -1,62 +1,62 @@
 #EXTM3U x-tvg-url="https://epg.136605.xyz/1day.xml" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV1.png" group-title="央视频道",CCTV1
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV1.png" group-title="福建移动",CCTV1
 http://${replace}/fjmobile?id=3221227550&/ku9-json/
 http://${replace}/fjmobile?id=3221225829&/ku9-json/
 http://${replace}/fjmobile?id=3221225812&/ku9-json/
-#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV2.png" group-title="央视频道",CCTV2
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV2.png" group-title="福建移动",CCTV2
 http://${replace}/fjmobile?id=3221225923&/ku9-json/
 http://${replace}/fjmobile?id=3221225800&/ku9-json/
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV3.png" group-title="央视频道",CCTV3
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV3.png" group-title="福建移动",CCTV3
 http://${replace}/fjmobile?id=3221227445&/ku9-json/
-#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV4.png" group-title="央视频道",CCTV4
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV4.png" group-title="福建移动",CCTV4
 http://${replace}/fjmobile?id=3221227554&/ku9-json/
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV5.png" group-title="央视频道",CCTV5
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV5.png" group-title="福建移动",CCTV5
 http://${replace}/fjmobile?id=3221227283&/ku9-json/
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV5+.png" group-title="央视频道",CCTV5+
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV5+.png" group-title="福建移动",CCTV5+
 http://${replace}/fjmobile?id=3221225939&/ku9-json/
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV6.png" group-title="央视频道",CCTV6
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV6.png" group-title="福建移动",CCTV6
 http://${replace}/fjmobile?id=3221227525&/ku9-json/
-#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV7.png" group-title="央视频道",CCTV7
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV7.png" group-title="福建移动",CCTV7
 http://${replace}/fjmobile?id=3221225927&/ku9-json/
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV8.png" group-title="央视频道",CCTV8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV8.png" group-title="福建移动",CCTV8
 http://${replace}/fjmobile?id=3221227546&/ku9-json/
-#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV9.png" group-title="央视频道",CCTV9
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV9.png" group-title="福建移动",CCTV9
 http://${replace}/fjmobile?id=3221225929&/ku9-json/
-#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV10.png" group-title="央视频道",CCTV10
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV10.png" group-title="福建移动",CCTV10
 http://${replace}/fjmobile?id=3221225931&/ku9-json/
-#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV11.png" group-title="央视频道",CCTV11
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV11.png" group-title="福建移动",CCTV11
 http://${replace}/fjmobile?id=3221225815&/ku9-json/
-#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV12.png" group-title="央视频道",CCTV12
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV12.png" group-title="福建移动",CCTV12
 http://${replace}/fjmobile?id=3221225932&/ku9-json/
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV13.png" group-title="央视频道",CCTV13
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV13.png" group-title="福建移动",CCTV13
 http://${replace}/fjmobile?id=3221227419&/ku9-json/
-#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV14.png" group-title="央视频道",CCTV14
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV14.png" group-title="福建移动",CCTV14
 http://${replace}/fjmobile?id=3221225933&/ku9-json/
-#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV15.png" group-title="央视频道",CCTV15
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV15.png" group-title="福建移动",CCTV15
 http://${replace}/fjmobile?id=3221225818&/ku9-json/
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV16.png" group-title="央视频道",CCTV16
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV16.png" group-title="福建移动",CCTV16
 http://${replace}/fjmobile?id=3221227125&/ku9-json/
-#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV17.png" group-title="央视频道",CCTV17
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://epg.136605.xyz/tvg-logo/CCTV17.png" group-title="福建移动",CCTV17
 http://${replace}/fjmobile?id=3221226986&/ku9-json/
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.136605.xyz/tvg-logo/CGTN.png" group-title="央视频道",CGTN
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.136605.xyz/tvg-logo/CGTN.png" group-title="福建移动",CGTN
 http://${replace}/fjmobile?id=3221225822&/ku9-json/
-#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://epg.136605.xyz/tvg-logo/CGTN纪录.png" group-title="央视频道",CGTN纪录
+#EXTINF:-1 tvg-name="CGTN纪录" tvg-logo="https://epg.136605.xyz/tvg-logo/CGTN纪录.png" group-title="福建移动",CGTN纪录
 http://${replace}/fjmobile?id=3221225813&/ku9-json/
-#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://epg.136605.xyz/tvg-logo/CGTN俄语.png" group-title="央视频道",CGTN俄语
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://epg.136605.xyz/tvg-logo/CGTN俄语.png" group-title="福建移动",CGTN俄语
 http://${replace}/fjmobile?id=3221227103&/ku9-json/
-#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://epg.136605.xyz/tvg-logo/CGTN法语.png" group-title="央视频道",CGTN法语
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://epg.136605.xyz/tvg-logo/CGTN法语.png" group-title="福建移动",CGTN法语
 http://${replace}/fjmobile?id=3221227220&/ku9-json/
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://epg.136605.xyz/tvg-logo/CGTN西语.png" group-title="央视频道",CGTN西语
+#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://epg.136605.xyz/tvg-logo/CGTN西语.png" group-title="福建移动",CGTN西语
 http://${replace}/fjmobile?id=3221227238&/ku9-json/
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://epg.136605.xyz/tvg-logo/CGTN阿语.png" group-title="央视频道",CGTN阿语
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://epg.136605.xyz/tvg-logo/CGTN阿语.png" group-title="福建移动",CGTN阿语
 http://${replace}/fjmobile?id=3221227224&/ku9-json/
-#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.136605.xyz/tvg-logo/中国天气.png" group-title="央视频道",中国天气
+#EXTINF:-1 tvg-name="中国天气" tvg-logo="https://epg.136605.xyz/tvg-logo/中国天气.png" group-title="福建移动",中国天气
 http://${replace}/fjmobile?id=3221227210&/ku9-json/
-#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://epg.136605.xyz/tvg-logo/CETV1.png" group-title="央视频道",CETV1
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://epg.136605.xyz/tvg-logo/CETV1.png" group-title="福建移动",CETV1
 http://${replace}/fjmobile?id=3221227067&/ku9-json/
-#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://epg.136605.xyz/tvg-logo/CETV2.png" group-title="央视频道",CETV2
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://epg.136605.xyz/tvg-logo/CETV2.png" group-title="福建移动",CETV2
 http://${replace}/fjmobile?id=3221227206&/ku9-json/
-#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://epg.136605.xyz/tvg-logo/CETV4.png" group-title="央视频道",CETV4
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://epg.136605.xyz/tvg-logo/CETV4.png" group-title="福建移动",CETV4
 http://${replace}/fjmobile?id=3221227192&/ku9-json/
 #EXTINF:-1 tvg-name="快乐垂钓" tvg-logo="https://epg.136605.xyz/tvg-logo/快乐垂钓.png" group-title="数字频道",快乐垂钓
 http://${replace}/fjmobile?id=3221226940&/ku9-json/
